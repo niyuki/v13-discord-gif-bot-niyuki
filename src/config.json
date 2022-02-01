@@ -1,0 +1,81 @@
+{
+    "token": "ah yes the negotiator",
+    "prefix": ".",
+    "mongooseConnectionString": "nicetry",
+    "developer": ["730448609790787585"],
+    "commandlog": "798528955195719691",
+    "guildId": "797571706658357268",
+    "embedFooter": "☃️ Calm Down Niyuki ☃️", 
+    "embedColor": "#b1ff00", 
+    "language": "tr",
+    "swearings": ["fuck", "nigger", "nigga","motherfucker"],
+    "channellist": {
+        "chat": "797571707023917123", 
+        "invitelog": "798151887622242324",
+        "botcommands": "797571707337572353", 
+    
+        "sharecategory": ["woman_category_id","man_category_id", "..."], 
+        "giflog": "803241806589853767",
+    
+        "feedbacklog": "937131704261410816",
+        "suggestionlog": "937131745730502666",
+    
+        "randomGifLog": "798279162909425665",
+        "randomPpLog": "798279179891638293",
+
+        "randomBannerLog": "937130926629072906",
+    
+        "commandLog": "937131745730502666",
+
+        "monthsLog": "870280679508811776"
+      },
+      "rolelist": {
+        "Sharer": "797574331152072774",
+        "BotRole": "797575192947064903",
+    
+        "Staff": ["811230215568097300"],
+        "Moderator": ["817837699801153577"],
+        "Admin": ["798503434524426260"],
+    
+        "oneMonth": "870279630974746645",
+        "twoMonths": "870279625400532992",
+        "threeMonths": "870279574611718195",
+        "sixMonths": "870279562116866059",
+        "nineMonths": "915930443050782720",
+        "oneYear": "870280274133516299",
+        "twoYears": "937038570131177533",
+    
+        "VipColor1": "938080098312142869", 
+        "VipColor2": "938080099230711810",
+        "VipColor3": "938080100241539123",
+        "VipColor4": "938080102527426640",
+        "VipColor5": "938080103588585513",
+        "VipColor6": "938080104368730204",
+        "VipColor7": "938080105178230824",
+        "VipColor8": "938080106138718278",
+        "VipColor9": "938080107199856691",
+        "VipColor10": "938080108013576222",
+    
+        "ColorRole1": "938080109838082089",
+        "ColorRole2": "938080110773424178",
+        "ColorRole3": "938080111356444693",
+        "ColorRole4": "938080112635682857",
+        "ColorRole5": "938080113323548746"
+      },
+    "fun": {
+        "jobs": ["Developer", "Architect", "Host/Hostess", "Bus Driver", "Cook", "Engineer", "Doctor", "Lawyer", "News Reporter", "Writer", "Actor", "Teacher", "Librarian", "Pilot"],
+        "sharereward": 50,
+        "emoji": "",
+        "tickemoji": "✅",
+        "crossemoji": "❌",
+        "coinsemoji": "💸",
+    
+        "headsemoji": "",
+        "tailsemoji": "",
+        "coinspinemoji": "",
+    
+        "greendiamondemoji": "",
+        "reddiamondemoji": "",
+        "blackdiamondemoji": ""
+      }
+}
